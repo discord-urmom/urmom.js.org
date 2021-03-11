@@ -1,0 +1,48 @@
+body {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: larger;
+    margin: 0;
+}
+
+.display-top {
+    background-color: #262938;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    height: 50%;
+}
+
+.display-top2 {
+    background-color: #262938;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    height: 20%;
+}
+.npmitext {
+    text-align: center;
+    margin-top: 25px;
+    width: 15rem;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 16px;
+    font-weight: 700;
+    color: #000;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.typerbox {
+    width: 30%;
+    box-shadow: #161820 6px 6px 0px;
+    background-color: #fff;
+    border-radius: 4px;
+    color: #262938;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+    height: 1.7rem;
+    text-align: center;
+}
